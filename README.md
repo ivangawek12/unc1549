@@ -2,7 +2,6 @@
 
 <img width="1200" height="628" alt="image" src="https://github.com/user-attachments/assets/c3230acf-98bf-44bf-88a2-fbfd98c9b779" />
 
-A comprehensive cyber threat intelligence analysis of UNC1549 infrastructure, focusing on domain and IP indicators of compromise (IOCs) used in strategic cyber-espionage targeting the aerospace and defense ecosystem.
 # UNC1549 CTI Analysis — Aerospace & Defense Cyber-Espionage
 
 A comprehensive cyber threat intelligence analysis of UNC1549 infrastructure, focusing on domain and IP indicators of compromise (IOCs) used in strategic cyber-espionage targeting the aerospace and defense ecosystem.
