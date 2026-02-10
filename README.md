@@ -1,7 +1,3 @@
-# UNC1549
-
-<img width="1200" height="628" alt="image" src="https://github.com/user-attachments/assets/c3230acf-98bf-44bf-88a2-fbfd98c9b779" />
-
 # UNC1549 CTI Analysis — Aerospace & Defense Cyber-Espionage
 
 A comprehensive cyber threat intelligence analysis of UNC1549 infrastructure, focusing on domain and IP indicators of compromise (IOCs) used in strategic cyber-espionage targeting the aerospace and defense ecosystem.
@@ -185,9 +181,13 @@ This analysis is intended for authorized threat intelligence and defensive cyber
 - [CIS Controls](https://www.cisecurity.org/cis-controls/)
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 
+## License
+
+This analysis is provided for educational and authorized security research purposes. See LICENSE file for details.
+
 ## Author
 
-Ivan Gawek
+Cyber Threat Intelligence Analysis
 Date: February 2026
 
 ---
